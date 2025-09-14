@@ -1,5 +1,7 @@
 # AimaneCouissi_CatalogProductListingStockStatus
 
+[![Latest Stable Version](http://poser.pugx.org/aimanecouissi/module-catalog-product-listing-stock-status/v)](https://packagist.org/packages/aimanecouissi/module-catalog-product-listing-stock-status) [![Total Downloads](http://poser.pugx.org/aimanecouissi/module-catalog-product-listing-stock-status/downloads)](https://packagist.org/packages/aimanecouissi/module-catalog-product-listing-stock-status) [![Latest Unstable Version](http://poser.pugx.org/aimanecouissi/module-catalog-product-listing-stock-status/v/unstable)](https://packagist.org/packages/aimanecouissi/module-catalog-product-listing-stock-status) [![License](http://poser.pugx.org/aimanecouissi/module-catalog-product-listing-stock-status/license)](https://packagist.org/packages/aimanecouissi/module-catalog-product-listing-stock-status) [![PHP Version Require](http://poser.pugx.org/aimanecouissi/module-catalog-product-listing-stock-status/require/php)](https://packagist.org/packages/aimanecouissi/module-catalog-product-listing-stock-status)
+
 Adds a **Stock Status** column to the Admin **Catalog → Products** grid.
 ## Installation
 ```bash
