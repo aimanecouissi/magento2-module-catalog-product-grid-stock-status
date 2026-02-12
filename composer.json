@@ -1,7 +1,7 @@
 {
-    "name": "aimanecouissi/module-catalog-product-listing-stock-status",
+    "name": "aimanecouissi/module-catalog-product-grid-stock-status",
     "version": "1.0.0",
-    "description": "Add stock status column to product listing",
+    "description": "Add stock status column to the Admin product grid",
     "type": "magento2-module",
     "require": {
         "php": "~8.3.0||~8.4.0",
@@ -15,7 +15,7 @@
             "registration.php"
         ],
         "psr-4": {
-            "AimaneCouissi\\CatalogProductListingStockStatus\\": ""
+            "AimaneCouissi\\CatalogProductGridStockStatus\\": ""
         }
     }
 }
