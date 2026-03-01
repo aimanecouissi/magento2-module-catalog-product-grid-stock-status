@@ -1,7 +1,7 @@
 {
     "name": "aimanecouissi/module-catalog-product-grid-stock-status",
     "version": "1.0.0",
-    "description": "Add stock status column to the Admin product grid",
+    "description": "Add a Stock Status column to the Admin product grid",
     "type": "magento2-module",
     "require": {
         "php": "~8.3.0||~8.4.0",
