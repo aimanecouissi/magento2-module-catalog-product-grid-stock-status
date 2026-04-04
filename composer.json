@@ -1,0 +1,41 @@
+{
+    "name": "aimanecouissi/module-catalog-product-grid-stock-status",
+    "version": "1.0.0",
+    "description": "Add a Stock Status column to the Admin product grid",
+    "type": "magento2-module",
+    "keywords": [
+        "magento2",
+        "magento",
+        "adobe-commerce",
+        "admin",
+        "catalog",
+        "product-grid",
+        "stock-status"
+    ],
+    "homepage": "https://github.com/aimanecouissi/magento2-module-catalog-product-grid-stock-status",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Aimane Couissi",
+            "email": "contact@aimanecouissi.com",
+            "homepage": "https://www.aimanecouissi.com/",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": "^8.3",
+        "magento/framework": "103.0.*"
+    },
+    "support": {
+        "issues": "https://github.com/aimanecouissi/magento2-module-catalog-product-grid-stock-status/issues",
+        "source": "https://github.com/aimanecouissi/magento2-module-catalog-product-grid-stock-status"
+    },
+    "autoload": {
+        "files": [
+            "registration.php"
+        ],
+        "psr-4": {
+            "AimaneCouissi\\CatalogProductGridStockStatus\\": ""
+        }
+    }
+}
